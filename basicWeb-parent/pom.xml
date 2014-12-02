@@ -16,6 +16,7 @@
 
     <properties>
         <project.version>1.0-SNAPSHOT</project.version>
+        <spring.version>4.1.2.RELEASE</spring.version>
     </properties>
 
 </project>
